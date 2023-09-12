@@ -1,4 +1,4 @@
-module gitlab.vecomentman.com/libs/logger
+module github.com/VerzCar/vyf-lib-logger
 
 go 1.17
 
